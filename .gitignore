@@ -5,3 +5,4 @@ coverage/
 *.skill
 *.mcpb
 .vitest/
+.claude/
